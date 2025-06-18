@@ -61,7 +61,7 @@ function App() {
 
 
               {/* Need Help Section */}
-              <div className="bg-gray-50 rounded-2xl p-8 mb-8">
+              <div className="bg-gray-50 rounded-2xl py-8 mb-8">
                 <h2 className="text-2xl font-bold text-gray-800 mb-6 text-center">Need Help?</h2>
                 <p className="text-[18px] text-gray-600 text-center mb-8">
                   If you have any questions about your order or need tracking assistance, feel free to reach out:
