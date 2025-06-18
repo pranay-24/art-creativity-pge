@@ -110,7 +110,7 @@ function App() {
         {/* Footer */}
         <footer className="p-6 text-center">
           <p className="text-white/80 text-sm">
-            © 2025 ArtCreativity.We'll be back soon with something amazing!
+            © 2025 ArtCreativity. We'll be back soon with something amazing!
           </p>
         </footer>
       </div>
