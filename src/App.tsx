@@ -44,7 +44,7 @@ function App() {
 
               {/* Description */}
               <p className="text-[18px] text-gray-600 text-center mb-8 leading-relaxed">
-                Our website is currently undergoing maintenance as we prepare a fresh new look and experience for you.
+                Our website is currently undergoing maintenance as we prepare a fresh new look and experience for you
               </p>
 
      {/* CTA Section */}
