@@ -8,7 +8,7 @@ function App() {
       <div 
         className="absolute inset-0 bg-cover bg-center bg-no-repeat"
         style={{
-          backgroundImage: 'url("/Main_image.webp")'
+          backgroundImage: 'url("https://res.cloudinary.com/dwe4p22ut/image/upload/v1750285650/Main_image_mcurr8.webp")'
         }}
       />
       <div className="absolute inset-0 bg-hero-pattern backdrop-blur-xs" />
@@ -19,7 +19,7 @@ function App() {
         <header className="p-6 md:p-8">
           <div className="flex items-center gap-3">
             <div className="bg-white p-3 h-[100px]">
-              <img src="/Logo.avif" alt="ArtCreativity Logo" className="w-full h-full object-contain" />
+              <img src="https://res.cloudinary.com/dwe4p22ut/image/upload/v1750285650/Logo_iiwjil.avif" alt="ArtCreativity Logo" className="w-full h-full object-contain" />
             </div>
             {/* <h1 className="text-xl md:text-2xl font-bold text-white">ArtCreativity</h1> */}
           </div>
